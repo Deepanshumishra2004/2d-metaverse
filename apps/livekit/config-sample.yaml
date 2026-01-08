@@ -1,0 +1,9 @@
+# API keys (map, 32+ chars each)
+keys:
+  devkey: "my-super-secret-key-1234567890"
+
+
+# redis:
+#   address: "127.0.0.1:6379"
+#   password: ""
+#   db: 0
